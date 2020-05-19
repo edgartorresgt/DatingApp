@@ -1,4 +1,3 @@
-import { Injectable } from '@angular/core';
 import * as alertify from 'alertifyjs';
 
 export class AlertifyService {
